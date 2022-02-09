@@ -1,0 +1,39 @@
+.page-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 60px;
+}
+
+.lang-container {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.lang-item {
+  display: block;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.lang-btn {
+  font-weight: bold;
+  font-size: 20px;
+  width: 75px;
+  height: 40px;
+  transition: 0.3s;
+  color: white;
+  background-color: transparent;
+  &:hover {
+    cursor: pointer;
+    color: #1E90FF;
+  }
+}
+
+.active {
+  color: #1E90FF;
+}
