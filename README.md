@@ -1,1 +1,1 @@
-## Link: https://jik789.github.io/RS-School-taskRandomJokes/
+## Link: https://jik789.github.io/RandomJokes/
